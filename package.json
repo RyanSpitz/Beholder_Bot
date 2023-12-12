@@ -1,0 +1,22 @@
+{
+  "name": "beholder_bot",
+  "version": "1.0.0",
+  "description": "Simple dnd bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "Test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanSpitz/Beholder_Bot.git"
+  },
+  "author": "Ryan Spitz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyanSpitz/Beholder_Bot/issues"
+  },
+  "homepage": "https://github.com/RyanSpitz/Beholder_Bot#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
