@@ -1,6 +1,9 @@
 {
   "name": "beholder_bot",
   "version": "1.0.0",
+  "engines": {
+    "npm": ">=16.11.0"
+  },
   "description": "Simple dnd bot",
   "main": "main.js",
   "scripts": {
